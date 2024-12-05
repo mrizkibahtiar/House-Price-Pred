@@ -39,7 +39,7 @@ matplotlib-inline
 mdurl
 narwhals
 nest-asyncio
-numpy
+numpy<1.21
 packaging
 pandas
 parso
@@ -58,7 +58,6 @@ pyparsing
 python-dateutil
 python-dotenv
 pytz
-pywin32
 pyzmq
 referencing
 requests
